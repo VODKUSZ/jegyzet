@@ -1,45 +1,45 @@
 * {
-    border: 1px solid gray;
-    margin: 3px;
-    padding: 5px;
+  border: 1px solid gray;
+  margin: 3px;
+  padding: 5px;
 }
-p{
-    font-size: 20px;
+p {
+  font-size: 20px;
 }
-.w50{
-    width: 50%;
+.w50 {
+  width: 50%;
 }
-.w70{
-    width: 70%;
+.w70 {
+  width: 70%;
 }
-.jobb{
-    margin-left: auto;
-    margin-right: 0;
+.jobb {
+  margin-left: auto;
+  margin-right: 0;
 }
-.koz{
-    margin-left: auto;
-    margin-right: auto;
+.koz {
+  margin-left: auto;
+  margin-right: auto;
 }
-.kek{
-    border-color: blue;
+.kek {
+  border-color: blue;
 }
-.piros{
-    border-color: red;
+.piros {
+  border-color: red;
 }
-.zold{
-    border-color: green;
+.zold {
+  border-color: green;
 }
-.border3px{
-    border-radius: 3px;
+.border3px {
+  border-radius: 3px;
 }
-.border5px{
-    border-radius: 5px;
+.border5px {
+  border-radius: 5px;
 }
-.border10px{
-    border-radius: 10px;
+.border10px {
+  border-radius: 10px;
 }
-table{
-    height: 600px;
-    width: 600px;
+table {
+  height: 600px;
+  width: 600px;
 }
 /* rendben van. pushold fel githubra */

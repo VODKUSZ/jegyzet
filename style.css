@@ -38,4 +38,8 @@ p{
 .border10px{
     border-radius: 10px;
 }
+.table{
+    height: 600px;
+    width: 600px;
+}
 /* rendben van. pushold fel githubra */
